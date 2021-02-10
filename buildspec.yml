@@ -9,6 +9,5 @@ phases:
     commands:
 artifacts:
   files:
-    - "handler/**/*"
+    - "**/*"
   base-directory: "handler"
-  name: handler-$CODEBUILD_RESOLVED_SOURCE_VERSION
