@@ -10,4 +10,4 @@ phases:
 artifacts:
   files:
     - "**/*"
-  base-directory: "handler"
+  base-directory: "applications/lambda1/handler"
